@@ -1,0 +1,16 @@
+*.name
+.idea/compiler.xml
+.idea/copyright/profiles_settings.xml
+.idea/encodings.xml
+.idea/libraries/Maven__org_bukkit_bukkit_1_7_5_R0_1_SNAPSHOT.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/scopes/scope_settings.xml
+.idea/vcs.xml
+.idea/workspace.xml
+*.iml
+build.bat
+*.jar
+*.class
+target/maven-archiver/pom.properties
+target/classes/plugin.yml
